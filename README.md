@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **divanshi.mamodia@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17WiX4amDR5YejZBnDI-_kT6iiTWY1PXH/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CbBo9r8bvKaDJJC7_wNQ5174DcluQm7x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/divanshi-mamodia-8395a2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/divanshi-mamodia-8395a2220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/divanshi-mamodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/divanshi-mamodia-8395a2220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/diivanshii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diivanshii2/?next=%2f" height="30" width="40" /></a>
 </p>
 
